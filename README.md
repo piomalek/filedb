@@ -1,2 +1,2 @@
 # filedb
-File based database exposing basic CRUD operations via REST endpoints
+Concurrent save file based database exposing basic CRUD operations via REST endpoints
