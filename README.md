@@ -12,9 +12,8 @@ Example db table file:
 ```
 1;pr|r|o
 2;d|uc|ts
-APIs exposed: 
 ```
-
+## APIs exposed: 
 ### insert
 **POST**
 _http://localhost:8080/api/{tableName}_
