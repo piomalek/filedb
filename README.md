@@ -1,5 +1,5 @@
 # filedb
-Concurrent save file based database exposing basic CRUD operations via REST endpoints
+Concurrent safe file based database exposing basic CRUD operations via REST endpoints
 
 Configuration parameters are stored in resources/application.properties 
 ```
