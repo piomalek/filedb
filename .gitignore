@@ -1,0 +1,53 @@
+# eclipse conf file
+.settings
+.classpath
+.project
+.manager
+.scala_dependencies
+.cache
+.metadata
+
+# idea conf files
+.idea
+*.iml
+*.ipr
+*.iws
+atlassian-ide-plugin.xml
+
+# building
+target
+build
+!frontend/pdfjs/build
+null
+tmp
+temp
+dist
+test-output
+build.log
+www
+out
+
+# misc
+.DS_Store
+*.log
+
+# node.js
+lib-cov
+*.seed
+*.log
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+.c9revisions
+
+dependency-reduced-pom.xml
+
+git.properties
